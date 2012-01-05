@@ -1,0 +1,42 @@
+# 第五代倉頡輸入法 (2008年最新版）
+# 支持字數：七萬簡繁漢字
+# 支持內碼：Unicode4.0、BIG5、GB18030、GBK、GB
+# 程式來源：倉頡之友。馬來西亞
+# 更新：2008-04-09
+# 下載自 http://www.chinesecj.com/newsoftware/index3.php?Type=1
+%gen_inp
+%ename changjei5
+%cname 倉五
+%selkey 1234567890
+%space_style 4
+#%keep_key_case
+%keyname begin
+a 日
+b 月
+c 金
+d 木
+e 水
+f 火
+g 土
+h 竹
+i 戈
+j 十
+k 大
+l 中
+m 一
+n 弓
+o 人
+p 心
+q 手
+r 口
+s 尸
+t 廿
+u 山
+v 女
+w 田
+x 難
+y 卜
+z 重
+%keyname end
+%chardef begin
+%chardef end
