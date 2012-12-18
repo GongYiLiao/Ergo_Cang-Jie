@@ -1,11 +1,15 @@
 /*
 ** test9.c
-** 
+**
+** Counting the chinese characters whose corresponding Cang-Jie 
+** Input key strokes totally fall one HOME, TOP, BOTTOM rows and  
+** also counts those are not.   
+**
 ** Made by (Gong-Yi Liao)
 ** Login   <gong-yi@GongTop1>
 ** 
 ** Started on  Thu Sep 15 15:24:27 2011 Gong-Yi Liao
-** Last update Thu Sep 22 12:13:03 2011 Gong-Yi Liao
+** Last update Mon Dec 17 19:55:45 2012 Gong-Yi Liao
 */
 
 

@@ -1,11 +1,12 @@
 /*
-** test9.c
+** count_root_key_frequency.c
+** 
 ** 
 ** Made by (Gong-Yi Liao)
 ** Login   <gong-yi@GongTop1>
 ** 
 ** Started on  Thu Sep 15 15:24:27 2011 Gong-Yi Liao
-** Last update Sun Sep 18 00:06:22 2011 Gong-Yi Liao
+** Last update Mon Dec 17 20:57:20 2012 Gong-Yi Liao
 */
 
 
@@ -57,7 +58,7 @@ int main(int argc, char **argv) {
     }
 #ifdef DEBUG
     printf("%ls\n", cangjies[dataCounts-1]);
-#ifdef
+#endif
   }
   fclose(fp);
   printf("%5d\n", dataCounts);
@@ -89,15 +90,4 @@ int main(int argc, char **argv) {
   fclose(fp_sample);
   return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
 
